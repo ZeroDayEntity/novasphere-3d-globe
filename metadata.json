@@ -1,0 +1,5 @@
+
+{
+  "name": "NovaSphere: 3D Geo-Data Visualizer",
+  "description": "An interactive 3D globe for visualizing geospatial data, built with React, Three.js, and Tailwind CSS."
+}

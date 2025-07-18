@@ -1,0 +1,11 @@
+
+[
+  { "city": "Tokyo", "lat": 35.6895, "lng": 139.6917, "population": 37435191 },
+  { "city": "Delhi", "lat": 28.6139, "lng": 77.2090, "population": 29399141 },
+  { "city": "Shanghai", "lat": 31.2304, "lng": 121.4737, "population": 26317104 },
+  { "city": "São Paulo", "lat": -23.5505, "lng": -46.6333, "population": 21846507 },
+  { "city": "Mexico City", "lat": 19.4326, "lng": -99.1332, "population": 21671908 },
+  { "city": "New York", "lat": 40.7128, "lng": -74.0060, "population": 18804000 },
+  { "city": "London", "lat": 51.5074, "lng": -0.1278, "population": 9002488 },
+  { "city": "Lagos", "lat": 6.5244, "lng": 3.3792, "population": 14862000 }
+]

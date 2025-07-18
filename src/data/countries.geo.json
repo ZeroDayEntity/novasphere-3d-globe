@@ -1,0 +1,21 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "ADMIN": "United States of America", "ISO_A3": "USA" },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [-124.7, 49.4], [-124.7, 24.4], [-66.9, 24.4], [-66.9, 49.4], [-124.7, 49.4] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ADMIN": "Brazil", "ISO_A3": "BRA" },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [-74.0, 5.2], [-74.0, -33.7], [-34.8, -33.7], [-34.8, 5.2], [-74.0, 5.2] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "ADMIN": "Australia", "ISO_A3": "AUS" },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [113.1, -12.5], [113.1, -43.6], [153.6, -43.6], [153.6, -12.5], [113.1, -12.5] ] ] }
+    }
+  ]
+}
