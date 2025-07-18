@@ -3,9 +3,9 @@
 A visually stunning, interactive 3D globe of Earth, built with React-Three-Fiber (WebGL) and TypeScript. This project demonstrates the power of modern web technologies to create immersive, data-driven, 3D experiences directly in the browser.
 
 ## 📸 Screenshots
-![NovaSphere Globe Screenshot]
+![NovaSphere Globe Screenshot](https://github.com/ZeroDayEntity/novasphere-3d-globe/blob/main/screenshots/Screenshot%20(26406).png?raw=true)
 
-![NovaSphere Country Detail Screenshot]
+![NovaSphere Country Detail Screenshot](https://github.com/ZeroDayEntity/novasphere-3d-globe/blob/main/screenshots/Screenshot%20(26409).png?raw=true)
 
 ## ✨ Key Features
 Photorealistic 3D Earth: Renders a high-resolution sphere with detailed textures for day, night (with city lights), and a dynamic cloud layer.
