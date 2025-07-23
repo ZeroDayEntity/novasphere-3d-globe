@@ -50,4 +50,4 @@ npm run dev
 You can now open the project at http://localhost:5173 in your browser.
 
 ### Contact
-### Saeed Hesary (ZeroDayEntity) - www.linkedin.com/in/zerodayentity
+### Saeed Hesary (ZeroDayEntity) - www.linkedin.com/in/saeed-hesary
